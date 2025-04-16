@@ -14,7 +14,7 @@ Note that copying files between two records ties up a lot of system resources. T
 Follow these steps to move files between two cloud storages using BeyondCloudConnector:  
 
 1. Open your Business Central.   
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for the **[Cloud File Import Entries](https://businesscentral.dynamics.com/?page=70838585)** page and click the appropriate search result.  
 1. The **Cloud File Import Entries** page is displayed.  
 1. From the menu, click **Scan Cloud Files from Database**.  

@@ -229,7 +229,7 @@ This section describes how to connect Sharepoint to Microsoft Business Central u
 To connect Sharepoint via the BeyondCloudConnector extension in Microsoft Dynamics 365 Business Central, proceed as follows:  
 
 1. Open your Business Central and the PDF file with the collected data.  
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for the **[Cloud Applications](https://businesscentral.dynamics.com/?page=70838580)** page and click the corresponding search result.  
 1. The **Cloud Applications** page is displayed.  
 1. To connect Sharepoint to your Business Central, click **New** in the menu bar.  

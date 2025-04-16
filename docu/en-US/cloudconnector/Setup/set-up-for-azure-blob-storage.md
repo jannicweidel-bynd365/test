@@ -64,7 +64,7 @@ This section describes how to connect Azure Blob Storage via BeyondCloudConnecto
 To connect Azure Blob Storage via the BeyondCloudConnector extension in Microsoft Dynamics 365 Business Central, proceed as follows:  
 
 1. Open your Business Central and the PDF file with the collected data.  
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud Applications](https://businesscentral.dynamics.com/?page=70838580)** and click on the corresponding search result.  
 1. The **Cloud Applications** page is displayed.  
 1. To connect Azure Blob Storage to your Business Central, click **New** in the menu bar.  

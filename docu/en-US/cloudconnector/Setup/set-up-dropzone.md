@@ -9,7 +9,7 @@ This chapter describes how to set up a Dropzone in Business Central. The Dropzon
 The following description explains how to set up a Dropzone for items.  
 
 1. Open your Business Central.   
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud Storage](https://businesscentral.dynamics.com/?page=70838580)** and click on the appropriate search result.
 The **Cloud Storage** page is displayed.  
 1. To set up a new Dropzone, click **New** in the menu bar.  

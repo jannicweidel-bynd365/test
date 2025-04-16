@@ -1,0 +1,54 @@
+- name: CloudConnector
+  href: appsource.md
+- name: Vorwort
+  items:
+    - name: Vorwort
+      href: Preface/preface.md
+    - name: Allgemein
+      href: Preface/general.md
+    - name: Einleitung
+      href: Preface/about.md
+- name: Einrichtung
+  items:
+    - name: Sharepoint
+      href: Setup/set-up-for-sharepoint.md
+    - name: Azure Files
+      href: Setup/set-up-for-azure-files.md
+    - name: Azure Blob Storage
+      href: Setup/set-up-for-azure-blob-storage.md
+    - name: Dropzone
+      href: Setup/set-up-dropzone.md
+    - name: Kategorien
+      href: Setup/set-up-categories-for-dropzone.md
+    - name: Berichtsarchiv
+      href: Setup/set-up-report-archive.md
+    - name: Benutzer
+      href: Setup/set-up-users.md
+- name: Lizenzverwaltung
+  href: license/toc.yml
+- name: Funktionen
+  items:
+    - name: Dateien hochladen
+      href: Features/upload-files.md
+    - name: Dateien suchen
+      href: Features/search-files.md
+    - name: Dateien löschen
+      href: Features/delete-files.md
+    - name: Dateien anzeigen
+      href: Features/preview-files.md
+    - name: PDF zusammenführen
+      href: Features/merge-pdf-files.md
+    - name: Kategorie ändern
+      href: Features/move-files-to-different-category.md
+    - name: Speicher wechseln
+      href: Features/move-files-to-different-storage.md
+    - name: Dateien kopieren
+      href: Features/copy-files-to-different-record.md
+- name: FAQ
+  items:
+  - name: FAQ
+    href: FAQ/faq.md
+  - name: Fehlermeldungen
+    href: FAQ/error-messages.md
+  - name: Update
+    href: FAQ/update-your-cloudconnector-version.md

@@ -14,7 +14,7 @@ Note that copying files between two records ties up a lot of system resources. T
 To copy files to another record via BeyondCloudConnector, proceed as follows:  
 
 1. Open your Business Central.   
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud File Import Entries](https://businesscentral.dynamics.com/?page=70838585)** and click on the corresponding search result.  
 1. The **Cloud File Import Entries** page is displayed.  
 1. From the menu, click **Scan Cloud Files from Database**.  

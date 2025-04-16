@@ -67,7 +67,7 @@ This section describes how to connect Azure Files via BeyondCloudConnector in Mi
 To connect Azure Files via the BeyondCloudConnector extension in Microsoft Dynamics 365 Business Central, proceed as follows:  
 
 1. Open your Business Central and the PDF file with the collected data.  
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud Applications](https://businesscentral.dynamics.com/?page=70838580)** and click on the corresponding search result.  
 1. The **Cloud Applications** page is displayed.  
 1. To connect Azure Files to your Business Central, click **New** in the menu bar.  
@@ -89,7 +89,7 @@ This feature is supported for Azure Files only. Note that no cloud storage must 
 To import files from Azure Files into your Business Central, do the following:  
 
 1. Open your Business Central.   
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud File Import Entries](https://businesscentral.dynamics.com/?page=70838585)** page and click the appropriate search result.  
 1. The **Cloud File Import Entries** page is displayed.  
     ![cloud-file-import](../assets/cloud-file-import.png)  

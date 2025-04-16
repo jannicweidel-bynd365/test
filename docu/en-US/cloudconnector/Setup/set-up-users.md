@@ -19,7 +19,7 @@ This section describes how to grant permission to a user to use BeyondCloudConne
 To set up a user, proceed as follows:  
 
 1. Open your Business Central.   
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud Connector User Setup](https://businesscentral.dynamics.com/?page=70838596)** and click the appropriate search result. The **Cloud Connector User Setup** page is displayed.  
 1. The list displays all configured users and the assigned permissions.  
 1. Click **New** > **Add new initial user** in the menu bar.  
@@ -39,7 +39,7 @@ This section describes how to copy the user permissions of an existing user to a
 Proceed as follows if you want to give a newly added user the same permissions as an existing user:  
 
 1. Open your Business Central.   
-1. From the role center, call the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, call the search function (**ALT+Q**) 🔍.  
 1. Search for **Cloud Connector User Setup** and click the appropriate search result. The **Cloud Connector User Setup** page is displayed.  
 1. The list displays all configured users and the assigned permissions.  
 1. Select a user from the list and check all permissions you want to transfer for a newly added user.  

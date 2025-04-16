@@ -14,7 +14,7 @@ If the slider is activated, the **Categories** tab is displayed. Here you can cr
 To create categories for the Dropzone, proceed as follows:  
 
 1. Open your Business Central.   
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud Storages](https://businesscentral.dynamics.com/?page=70838580)** and click the appropriate search result.
 The **Cloud Storages** page is displayed.  
 1. Select a cloud storage from the list and open the corresponding cloud storage card.  

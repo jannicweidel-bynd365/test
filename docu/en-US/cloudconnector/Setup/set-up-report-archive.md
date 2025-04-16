@@ -11,7 +11,7 @@ Categories cannot be used in report archiving.
 To set up automatic report archiving, proceed as follows:  
 
 1. Open your Business Central.   
-1. From the role center, call the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.
+1. From the role center, call the search function (**ALT+Q**) 🔍.
 1. Search for **[Cloud Storages](https://businesscentral.dynamics.com/?page=70838580)** and click on the appropriate search result.
 The **Cloud Storages** page is displayed.  
 1. To set up a new drop zone, click **New** in the menu bar.  

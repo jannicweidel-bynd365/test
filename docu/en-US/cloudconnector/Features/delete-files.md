@@ -26,7 +26,7 @@ You must delete the file connection if the file to be displayed in Business Cent
 To delete the file conection between Business Central and the cloud storage, proceed as follows:  
 
 1. Note the name of the file and its metadata.  
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for **[Cloud Files](https://businesscentral.dynamics.com/?page=70838576)** and click on the corresponding search result. 
 The **Cloud Files** page is displayed.  
 1. Show the filter area (**SHIFT+F3**).  

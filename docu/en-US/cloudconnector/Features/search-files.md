@@ -9,7 +9,7 @@ This chapter describes how to search for files in Business Central via BeyondClo
 Follow these steps to search for a file in cloud storage via BeyondCloudConnector:  
 
 1. Open your Business Central.   
-1. From the role center, open the search function (**ALT+Q**) <img src="../assets/search-icon.png" width="17px" height="17px"></img>.  
+1. From the role center, open the search function (**ALT+Q**) 🔍.  
 1. Search for the **[Cloud Files Search](https://businesscentral.dynamics.com/?page=70838588)** page and click on the corresponding search result.  
 1. The **Cloud Files Search** page is displayed.  
     ![cloud-file-search](../assets/cloud-file-search.png)  
