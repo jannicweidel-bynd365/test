@@ -13,7 +13,7 @@ Diese Dokumentation richtet sich an erfahrene Nutzer von Business Central. Für 
 <!-- Description for the intended use of this documentation -->
 Lesen Sie diese Dokumentation vollständig, um Beyond CloudConnector einzurichten und professionell damit zu arbeiten. Achten Sie besonders auf die in der Dokumentation enthaltenen Tipps, Informationen und Sicherheitshinweise. Informieren Sie Ihre Mitarbeiter über die ordnungsgemäße Verwendung von Beyond CloudConnector und bewahren Sie die Dokumentation an einem Ort auf, der für die Mitarbeiter zugänglich ist.  
 
-<a href="http://docs.beyond365.de/pdf/BEYONDCloudConnector_en-US.pdf"><button type="button">PDF herunterladen</button></a>
+<a href="http://docs.beyond365.de/pdf/BEYONDCloudConnector_de-DE.pdf"><button type="button">PDF herunterladen</button></a>
 
 <!-- Herstellerkontaktdaten -->
 ## Hersteller
